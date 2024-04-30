@@ -8,8 +8,7 @@ from model_final import prepare_dataframe
 import os
 
 def load_model():
-    model_file = os.path.join(os.path.dirname(__file__), 'model_3.pkl')
-    with open(model_file, 'rb') as file:
+    with open('model_3.pkl', 'rb') as file:
         data = pickle.load(file)
     return data
 
