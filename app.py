@@ -1,3 +1,5 @@
+
+import sklearn
 import streamlit as st
 from predictor import show_predict_page
 
