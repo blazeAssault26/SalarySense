@@ -1,1 +1,1 @@
-# SalarySense-Predictive-Software-Engineer-Earnings
+# SalarySense
